@@ -1,6 +1,6 @@
-# AbbasiConnect
+# SocialConnect
 
-A secure, exclusive community platform for verified Abbasi Muslims built as a Progressive Web App.
+A secure, exclusive community platform for verified people built as a Progressive Web App.
 
 ## 🎯 Features
 
