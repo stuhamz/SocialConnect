@@ -1,0 +1,27 @@
+{
+  "name": "abbasiconnect",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Secure community platform for verified Abbasi Muslims",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspace=apps/web",
+    "build": "npm run build --workspace=apps/web",
+    "start": "npm run start --workspace=apps/web",
+    "lint": "npm run lint --workspace=apps/web",
+    "db:setup": "node infra/setup-db.js",
+    "db:migrate": "node infra/migrate.js",
+    "db:seed": "node infra/seed.js"
+  },
+  "keywords": [
+    "community",
+    "pwa",
+    "nextjs",
+    "supabase"
+  ],
+  "author": "AbbasiConnect Team",
+  "license": "MIT"
+}
