@@ -26,7 +26,7 @@ A secure, exclusive community platform for verified people built as a Progressiv
 ## 📁 Project Structure
 
 ```
-abbasiconnect/
+socialconnect/
 ├── apps/
 │   └── web/              # Next.js 14 PWA
 ├── packages/
