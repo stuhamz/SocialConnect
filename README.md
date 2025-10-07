@@ -113,10 +113,7 @@ This is a private community project. For contribution guidelines, please contact
 
 MIT License - see LICENSE file for details
 
-## 📧 Contact
-
-For support or inquiries: support@abbasiconnect.com
 
 ---
 
-Built with ❤️ for the Abbasi community
+Built with ❤️ for the community
